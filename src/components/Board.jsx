@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+
 import Card from "./Card";
 
 const Board = ({cards, onCardClick}) => {

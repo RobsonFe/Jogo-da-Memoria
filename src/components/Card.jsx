@@ -1,3 +1,6 @@
+/* eslint-disable no-unused-vars */
+
+
 function Card({card, onClick}) {
   return (
     <div className={`card ${card.isFlipped ? "flipped" : ""}`}
