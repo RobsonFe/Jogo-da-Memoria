@@ -10,7 +10,7 @@ function Footer() {
           <div className="col-lg-6 col-md-12 mb-4 mb-md-0">
             <h5 className="text-uppercase fw-semibold">Jogo da Memória</h5>
             <p className='lh-base'>
-              Esse jogo faz parte de um projeto em feito em React.
+              Esse jogo faz parte de um projeto feito em React e Bootstrap.
             </p>
           </div>
 
