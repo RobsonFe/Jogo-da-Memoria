@@ -8,8 +8,6 @@ Bem-vindo ao Jogo da Memória em React! Este projeto é uma implementação clá
 - **Contagem de Movimentos:** Acompanhe o número de movimentos necessários para completar o jogo.
 - **Tentativas de Jogo:** Desafie-se a completar o jogo antes de terminar as tentativas.
 
-## Como Iniciar
+## Veja o meu Projeto Online
 
-1. **Clone o Repositório:**
-   ```bash
-   git clone https://github.com/SeuUsuario/react-jogo-da-memoria.git
+[![Clique aqui para ver o projeto online](https://jogodamemoriapp.netlify.app/)](https://jogodamemoriapp.netlify.app/){:target="_blank"}
