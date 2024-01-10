@@ -10,4 +10,4 @@ Bem-vindo ao Jogo da Memória em React! Este projeto é uma implementação clá
 
 ## Veja o meu Projeto Online
 
-<a href="https://jogodamemoriapp.netlify.app/" target="_blank" rel="noopener noreferrer"><img alt="Clique aqui para ver o projeto online" src="https://jogodamemoriapp.netlify.app/"></a>
+[Veja o projeto online](https://jogodamemoriapp.netlify.app/)
